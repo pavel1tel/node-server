@@ -1,0 +1,27 @@
+{
+  "name": "fastify_server",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.16.3",
+    "npm": "6.11.3"
+  },
+  "description": "server for labs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelItel228/node-server.git"
+  },
+  "author": "PavelItel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelItel228/node-server/issues"
+  },
+  "homepage": "https://github.com/PavelItel228/node-server#readme",
+  "dependencies": {
+    "fastify": "^2.10.0"
+  }
+}
