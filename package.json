@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/PavelItel228/node-server#readme",
   "dependencies": {
-    "fastify": "^2.10.0"
+    "fastify": "^2.15.1"
   }
 }
